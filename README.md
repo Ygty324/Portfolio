@@ -53,4 +53,4 @@ npm run dev
 
 ## Lisans
 
-© 2024 Yiğit Aktürk. Tüm hakları saklıdır.
+© 2025 Yiğit Aktürk. Tüm hakları saklıdır.
